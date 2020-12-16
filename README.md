@@ -4,13 +4,6 @@ Group6-Landmark-Regonition-using-Google-Landmark-Dataset
 
 This project will focus to build a model that recognizes a given popular attraction or landmark using Google landmark dataset. This landmark recognition model will be handy to identify the name of a landmark in the image..
 
-This Repository is divided into 5 section 
-1. Group Final Project Report  - Report on Group Project experiments 
-2. Three Individual Project report - It contains two file - 1 PDF on individual findings and experiments contribution to the project and code file associated with it. 
-3.Group Presenattion - Presentation on Project
-4. Group Proposal - High level overview on Project proposal
-5.CODE - Group Project Work 
-
 CODE FILES: 
 1. Main_menu.py --> Which describes starting point of execution, all associated py files are imported into it automatically. 
 2. image_download.py --> subroutine that decribes image download activity
